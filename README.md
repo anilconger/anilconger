@@ -1,4 +1,4 @@
-### Hi there ⚡
+## <i>Hi there</i> ⚡
 
 <!--
 **anilconger/anilconger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
